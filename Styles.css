@@ -74,3 +74,18 @@ html, body {
     margin: 15px;
     border-radius: 50%;
 }
+
+.main-footer {
+    background-color: #56ccf5;
+    color: #fff;
+    padding: .25em 0;
+}
+.main-footer-container {
+    display: flex;
+    align-items: center;
+}
+.main-footer-container ul {
+    flex-grow: 1;
+    text-align: end;
+    text-decoration: none;
+}
