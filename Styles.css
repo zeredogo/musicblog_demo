@@ -76,7 +76,7 @@ html, body {
 }
 
 .main-footer {
-    background-color: #56ccf5;
+    background-color: #56ccf9;
     color: #fff;
     padding: .25em 0;
 }
@@ -88,4 +88,11 @@ html, body {
     flex-grow: 1;
     text-align: end;
     text-decoration: none;
+}
+.footer-nav li {
+    padding: 0 .5em;
+}
+.footer-nav img {
+    width: 30px;
+    height: 30px;
 }
