@@ -185,3 +185,16 @@ html, body {
     color: #333;
     margin-bottom: 15px;
 }
+.shop-item-image{
+    height: 250px;
+}
+.shop-item-details {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.shop-item-price {
+    flex-grow: 1;
+    color: #333;
+}
