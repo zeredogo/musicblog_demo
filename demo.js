@@ -1,2 +1,2 @@
 let firstName = 'Paul';
-let lastName = 'Dogo'
+let lastName = 'Dogo';
