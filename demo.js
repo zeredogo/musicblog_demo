@@ -1,4 +1,4 @@
 let firstName = 'Paul';
 let lastName = 'Dogo';
 
-function fullName(firstName)
+function fullName(firstName, l)
