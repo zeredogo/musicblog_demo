@@ -1,4 +1,6 @@
 let firstName = 'Paul';
 let lastName = 'Dogo';
 
-function fullName(firstName, lastName)
+function fullName(firstName, lastName) {
+    
+}
