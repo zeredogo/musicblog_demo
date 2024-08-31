@@ -1,5 +1,5 @@
-let firstName = 'Paul';
-let lastName = 'Dogo';
+let firstName = 'James';
+let lastName = 'Frank';
 
 function fullName(firstName, lastName) {
     return firstName + lastName;
