@@ -1,6 +1,6 @@
 let firstName = 'James';
 let lastName = 'Frank';
-
+c
 function fullName(firstName, lastName) {
     return firstName + lastName;
 }
@@ -17,3 +17,4 @@ function origin(( area === residentalArea ), ( region === Country )) {
         console.log("hello welcome");
     }
 };
+
