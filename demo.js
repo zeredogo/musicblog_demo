@@ -1,6 +1,6 @@
 let firstName = 'James';
 let lastName = 'Frank';
-cons
+const
 function fullName(firstName, lastName) {
     return firstName + lastName;
 }
