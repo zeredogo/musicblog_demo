@@ -1,6 +1,6 @@
 let firstName = 'James';
 let lastName = 'Frank';
-const pl
+const plo
 function fullName(firstName, lastName) {
     return firstName + lastName;
 }
