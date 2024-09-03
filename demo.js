@@ -6,3 +6,5 @@ function fullName(firstName, lastName) {
 }
 
 fullName();
+
+const Date
