@@ -7,5 +7,13 @@ function fullName(firstName, lastName) {
 
 fullName();
 
-const residentalArea = "Jos Plateau State";
+const residentalArea = "Jos";
 const Country = "Nigeria";
+
+function origin(( area === residentalArea ), ( region === Country )) {
+    if (area !== residentalArea && region !== Country ) {
+        console.error();
+    } else {
+        console.log("hello welcome");
+    }
+};
