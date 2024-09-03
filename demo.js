@@ -7,4 +7,4 @@ function fullName(firstName, lastName) {
 
 fullName();
 
-const Date
+const residentalArea = "Jos Plateau State";
