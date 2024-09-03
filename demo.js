@@ -1,6 +1,7 @@
 let firstName = 'James';
 let lastName = 'Frank';
 const plot = 759;
+c
 function fullName(firstName, lastName) {
     return firstName + lastName;
 }
