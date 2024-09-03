@@ -8,3 +8,4 @@ function fullName(firstName, lastName) {
 fullName();
 
 const residentalArea = "Jos Plateau State";
+const Country = "Nigeria";
