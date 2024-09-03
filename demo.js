@@ -1,6 +1,6 @@
 let firstName = 'James';
 let lastName = 'Frank';
-const plot = 7
+const plot = 759;
 function fullName(firstName, lastName) {
     return firstName + lastName;
 }
