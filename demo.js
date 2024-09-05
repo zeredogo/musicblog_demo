@@ -1,7 +1,7 @@
 let firstName = 'James';
 let lastName = 'Frank';
 const plot = 759;
-const seize = 84
+const seize = 849
 function fullName(firstName, lastName) {
     return firstName + lastName;
 }
