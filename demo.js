@@ -1,7 +1,6 @@
 let firstName = 'James';
 let lastName = 'Frank';
-const plot = 759;
-const seize = 849;
+
 function fullName(firstName, lastName) {
     return firstName + lastName;
 }
@@ -18,4 +17,9 @@ function origin(( area === residentalArea ), ( region === Country )) {
         console.log("hello welcome");
     }
 };
+
+const plot = 759;
+const seize = 849;
+
+f
 
