@@ -21,7 +21,7 @@ function origin(( area === residentalArea ), ( region === Country )) {
 const plot = 759;
 const seize = 849;
 
-function sumTotal(p = pl) {
+function sumTotal(p = plo) {
  c
 };
 
