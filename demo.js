@@ -22,6 +22,6 @@ const plot = 759;
 const seize = 849;
 
 function sumTotal(p = plot, s = seize) {
- conso
+ consol
 };
 
