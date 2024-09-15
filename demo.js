@@ -26,5 +26,7 @@ function sumTotal(p = plot, s = seize) {
 return p + s ;
 };
 
-if (sumTotal < 2000)
+if (sumTotal < 2000) {
+    return ""
+}
 
