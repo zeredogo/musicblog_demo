@@ -26,5 +26,5 @@ function sumTotal(p = plot, s = seize) {
 return p + s ;
 };
 
-if
+if (sumTotal)
 
