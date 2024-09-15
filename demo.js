@@ -29,6 +29,6 @@ return p + s ;
 if (sumTotal < 2000) {
     return "sumTotal is less than 2000"
 } else {
-    return 
+    return "sumTotal is greater than 2000"
 }
 
