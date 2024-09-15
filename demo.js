@@ -27,6 +27,8 @@ return p + s ;
 };
 
 if (sumTotal < 2000) {
-    return ""
+    return "sumTotal is less than 2000"
+} else {
+    return 
 }
 
