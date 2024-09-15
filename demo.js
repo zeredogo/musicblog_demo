@@ -23,6 +23,8 @@ const seize = 849;
 
 function sumTotal(p = plot, s = seize) {
  console.log(p + s);
- if ()
+return p + s ;
 };
+
+if
 
