@@ -32,4 +32,4 @@ if (sumTotal < 2000) {
     return "sumTotal is greater than 2000"
 }
 
-const numX =
+const numX = 38
