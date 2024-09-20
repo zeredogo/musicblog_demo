@@ -36,7 +36,7 @@ const numX = 3879;
 const numW = 4739;
  if(numX >= 4879, numW <= 3456) {
     return  ("the color is green")
- }
+ } else 
 function (numX , numW) {
 console.log(numX, numW)
 }
