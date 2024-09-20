@@ -32,11 +32,13 @@ if (sumTotal < 2000) {
     return "sumTotal is greater than 2000"
 };
 
-const numX = 3879;
+const numK = 3879;
 const numW = 4739;
- if(numX >= 4879, numW <= 3456) {
+ if(numK >= 4879 || numW <= 3456) {
     return  ("the color is green")
- } else 
-function (numX , numW) {
-console.log(numX, numW)
+ } else {
+    return ("the color is red")
+ }
+function (_numK , _numW) {
+console.log(_numK, _numW)
 }
